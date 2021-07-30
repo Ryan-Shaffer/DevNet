@@ -20,5 +20,19 @@ Chapter 4
 6.   Incorrect
 7.   Incorrect
 8.   Incorrect
-9.   Incorrect
-10. A Correct 
+9.   Incorret
+10. A Correct
+
+Chapter 5
+1. C  Correct
+2. A  Correct
+3. A  Incorrect C
+4. B  Correct
+5. A  Incorrect A,C
+6. A  Incorrect B
+7. A  Correct
+8. C  Correct
+9. B  Incorrect
+10. A,D Correct
+11. B? Correct
+
