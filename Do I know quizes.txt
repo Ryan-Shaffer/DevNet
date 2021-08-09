@@ -36,3 +36,16 @@ Chapter 5
 10. A,D Correct
 11. B? Correct
 
+Chapter 6 
+1. A	Correct
+2. A,B	Correct
+3. A,C,E Incorrect
+4. A	Correct
+5. C	Correct
+6. B,D,G Incorrect
+7. A	Correct
+
+
+
+
+
